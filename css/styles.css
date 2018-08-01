@@ -1,0 +1,66 @@
+.h{
+	margin-bottom: 10px;
+}
+.navbar > .container{
+	background-color: grey;
+	
+}
+.navbar-default .navbar-collapse{
+	margin-bottom: -10px;
+}
+.navbar-default .navbar-nav>li>a{
+	color: black;
+	background-color: white;
+
+}
+.navbar-default .navbar-collapse>ul{
+	background-color: white;
+	border: solid black 1px;
+}
+.navbar-default .navbar-nav>li>a>hr{
+	margin-bottom: -10px;
+	border-color: black;
+}
+h1{
+	margin-top: 0px;
+	color: black;
+	font-size: 1.2em;
+}
+h2 {
+	margin-top: 0px;
+	color: black;
+	font-size: 1.4em;
+}
+.navbar-default .navbar-collapse{
+margin-top: 10px;
+.border: solid black 1px;
+}
+.navbar-toggle{
+	
+	background-color: black;
+}
+.navbar-nav{
+	margin-top: -5px;
+	
+	color: black;
+}
+
+.visible-xs{
+	font-style: italic;
+	margin-top: 15px;
+}
+#collapsable-nav{
+background-color: black;
+}
+.row, .container{
+	width:100%;
+}
+.hr{
+	border-color:green;
+}
+.abc{
+	background-color: grey;
+	width: 100%;
+	margin-left: 15px;
+	margin-right: auto;
+}
