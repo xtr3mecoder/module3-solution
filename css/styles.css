@@ -16,6 +16,7 @@
 .navbar-default .navbar-collapse>ul{
 	background-color: white;
 	border: solid black 1px;
+	margin-top: 1px;
 }
 .navbar-default .navbar-nav>li>a>hr{
 	margin-bottom: -10px;
